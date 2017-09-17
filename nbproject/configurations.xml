@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Algorithms/DynamicProgramming/01KnapsackProblem.c</itemPath>
+      <itemPath>CPracticeQuestions/Armstrong.c</itemPath>
+      <itemPath>CPracticeQuestions/ArrayOfPointerMultidimensional.c</itemPath>
+      <itemPath>CPracticeQuestions/BasicStringsCharacters.c</itemPath>
+      <itemPath>CPracticeQuestions/BasicStringsOperations.c</itemPath>
+      <itemPath>DataStructures/GraphsPrograms/BfsDfs.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/BubbleSort.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/BucketSort.c</itemPath>
+      <itemPath>DataStructures/HeapsPrograms/BuiltMaxHeap.c</itemPath>
+      <itemPath>DataStructures/HashingPrograms/ChainingInHashing.c</itemPath>
+      <itemPath>DataStructures/GraphsPrograms/CheckingForAcyclicGraph.c</itemPath>
+      <itemPath>DataStructures/LinkedListPrograms/ComprehensiveLinkedList.c</itemPath>
+      <itemPath>DataStructures/TreesPrograms/ComprehensiveTreeProgram.c</itemPath>
+      <itemPath>CPracticeQuestions/ConvertIntToChar.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/CountingSort.c</itemPath>
+      <itemPath>CPracticeQuestions/DeleteOccuranceOfC.c</itemPath>
+      <itemPath>Algorithms/GreedyAlgorithms/DijkstraAlgorithm.c</itemPath>
+      <itemPath>DataStructures/LinkedListPrograms/DoublyLinkedList.c</itemPath>
+      <itemPath>CPracticeQuestions/FahrenheitCelcius.c</itemPath>
+      <itemPath>CPracticeQuestions/Fibonacci.c</itemPath>
+      <itemPath>Algorithms/DynamicProgramming/FloydWarshallAlgorithm.c</itemPath>
+      <itemPath>Algorithms/GreedyAlgorithms/GreedyKnapsackProblem.c</itemPath>
+      <itemPath>CPracticeQuestions/HalfPyramidStar.c</itemPath>
+      <itemPath>DataStructures/HeapsPrograms/HeapSort.c</itemPath>
+      <itemPath>Algorithms/GreedyAlgorithms/HuffmanCodes.c</itemPath>
+      <itemPath>CPracticeQuestions/ImplementingStrCat.c</itemPath>
+      <itemPath>CPracticeQuestions/ImplementingStrCmp.c</itemPath>
+      <itemPath>CPracticeQuestions/ImplementingStrCpy.c</itemPath>
+      <itemPath>DataStructures/StackQueuesPrograms/InfixToPostfixUsingStack.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/InsertionSort.c</itemPath>
+      <itemPath>Algorithms/GreedyAlgorithms/JobSequencingWithDeadlines.c</itemPath>
+      <itemPath>Algorithms/DynamicProgramming/LongestCommonSubsequence.c</itemPath>
+      <itemPath>Algorithms/DynamicProgramming/MatrixChainMultiplication.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/MergeSort.c</itemPath>
+      <itemPath>Algorithms/DynamicProgramming/MultiStageGraph.c</itemPath>
+      <itemPath>DataStructures/HashingPrograms/OpenAddressingDoubleHashing.c</itemPath>
+      <itemPath>DataStructures/HeapsPrograms/OperationsOnHeap.c</itemPath>
+      <itemPath>CPracticeQuestions/PalindromeNumber.c</itemPath>
+      <itemPath>CPracticeQuestions/PointerArrayCopy.c</itemPath>
+      <itemPath>CPracticeQuestions/PointerArrays.c</itemPath>
+      <itemPath>CPracticeQuestions/PointerSwapping1.c</itemPath>
+      <itemPath>CPracticeQuestions/Prime.c</itemPath>
+      <itemPath>Algorithms/GreedyAlgorithms/PrimsAlgorithmWithHeap.c</itemPath>
+      <itemPath>CPracticeQuestions/PyramidStarPattern.c</itemPath>
+      <itemPath>DataStructures/StackQueuesPrograms/QueueUsingCircularArray.c</itemPath>
+      <itemPath>DataStructures/StackQueuesPrograms/QueueUsingLinkedList.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/QuickSort.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/RadixSort.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/SelectionSort.c</itemPath>
+      <itemPath>Algorithms/SortingTechniques/ShellSort.c</itemPath>
+      <itemPath>DataStructures/StackQueuesPrograms/StackUsingArrays.c</itemPath>
+      <itemPath>DataStructures/StackQueuesPrograms/StackUsingLinkedList.c</itemPath>
+      <itemPath>Algorithms/DynamicProgramming/SubsetSumProblem.c</itemPath>
+      <itemPath>DataStructures/GraphsPrograms/TopologicalSort.c</itemPath>
+      <itemPath>DataStructures/RecursionPrograms/TowerOfHanoi.c</itemPath>
+      <itemPath>main.c</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="Algorithms/DynamicProgramming/01KnapsackProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/FloydWarshallAlgorithm.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/LongestCommonSubsequence.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/MatrixChainMultiplication.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/MultiStageGraph.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/SubsetSumProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/DijkstraAlgorithm.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/GreedyKnapsackProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/HuffmanCodes.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/JobSequencingWithDeadlines.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/PrimsAlgorithmWithHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/BubbleSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/BucketSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/CountingSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/InsertionSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/MergeSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/QuickSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/RadixSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/SelectionSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/ShellSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Armstrong.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ArrayOfPointerMultidimensional.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/BasicStringsCharacters.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/BasicStringsOperations.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ConvertIntToChar.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/DeleteOccuranceOfC.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/FahrenheitCelcius.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Fibonacci.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/HalfPyramidStar.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCat.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCmp.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCpy.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PalindromeNumber.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerArrayCopy.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerArrays.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerSwapping1.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Prime.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PyramidStarPattern.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/BfsDfs.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/CheckingForAcyclicGraph.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/TopologicalSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HashingPrograms/ChainingInHashing.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HashingPrograms/OpenAddressingDoubleHashing.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/BuiltMaxHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/HeapSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/OperationsOnHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/LinkedListPrograms/ComprehensiveLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/LinkedListPrograms/DoublyLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/RecursionPrograms/TowerOfHanoi.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/InfixToPostfixUsingStack.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/QueueUsingCircularArray.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/QueueUsingLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/StackUsingArrays.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/StackUsingLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/TreesPrograms/ComprehensiveTreeProgram.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Algorithms/DynamicProgramming/01KnapsackProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/FloydWarshallAlgorithm.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/LongestCommonSubsequence.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/MatrixChainMultiplication.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/MultiStageGraph.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/DynamicProgramming/SubsetSumProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/DijkstraAlgorithm.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/GreedyKnapsackProblem.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/HuffmanCodes.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/JobSequencingWithDeadlines.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/GreedyAlgorithms/PrimsAlgorithmWithHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/BubbleSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/BucketSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/CountingSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/InsertionSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/MergeSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/QuickSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/RadixSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/SelectionSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="Algorithms/SortingTechniques/ShellSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Armstrong.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ArrayOfPointerMultidimensional.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/BasicStringsCharacters.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/BasicStringsOperations.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ConvertIntToChar.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/DeleteOccuranceOfC.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/FahrenheitCelcius.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Fibonacci.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/HalfPyramidStar.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCat.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCmp.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/ImplementingStrCpy.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PalindromeNumber.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerArrayCopy.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerArrays.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PointerSwapping1.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/Prime.c" ex="false" tool="0" flavor2="0">
+      </item>
+      <item path="CPracticeQuestions/PyramidStarPattern.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/BfsDfs.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/CheckingForAcyclicGraph.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/GraphsPrograms/TopologicalSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HashingPrograms/ChainingInHashing.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HashingPrograms/OpenAddressingDoubleHashing.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/BuiltMaxHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/HeapSort.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/HeapsPrograms/OperationsOnHeap.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/LinkedListPrograms/ComprehensiveLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/LinkedListPrograms/DoublyLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/RecursionPrograms/TowerOfHanoi.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/InfixToPostfixUsingStack.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/QueueUsingCircularArray.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/QueueUsingLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/StackUsingArrays.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/StackQueuesPrograms/StackUsingLinkedList.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="DataStructures/TreesPrograms/ComprehensiveTreeProgram.c"
+            ex="false"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="main.c" ex="false" tool="0" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

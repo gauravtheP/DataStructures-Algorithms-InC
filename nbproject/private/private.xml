@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <data xmlns="http://www.netbeans.org/ns/make-project-private/1">
+        <activeConfTypeElem>1</activeConfTypeElem>
+        <activeConfIndexElem>0</activeConfIndexElem>
+    </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/FahrenheitCelcius.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/ImplementingStrCat.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/StackQueuesPrograms/QueueUsingCircularArray.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/GraphsPrograms/TopologicalSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/GraphsPrograms/BfsDfs.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/InsertionSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/SubsetSumProblem.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/MergeSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/GreedyAlgorithms/PrimsAlgorithmWithHeap.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/HashingPrograms/OpenAddressingDoubleHashing.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/RecursionPrograms/TowerOfHanoi.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/RadixSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/ShellSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/Armstrong.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/PointerSwapping1.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/PyramidStarPattern.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/PalindromeNumber.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/BasicStringsOperations.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/ImplementingStrCmp.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/HalfPyramidStar.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/Prime.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/GreedyAlgorithms/HuffmanCodes.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/QuickSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/LongestCommonSubsequence.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/LinkedListPrograms/ComprehensiveLinkedList.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/CountingSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/ArrayOfPointerMultidimensional.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/PointerArrays.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/GreedyAlgorithms/DijkstraAlgorithm.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/01KnapsackProblem.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/ImplementingStrCpy.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/HashingPrograms/ChainingInHashing.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/MultiStageGraph.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/BubbleSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/StackQueuesPrograms/QueueUsingLinkedList.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/GreedyAlgorithms/GreedyKnapsackProblem.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/LinkedListPrograms/DoublyLinkedList.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/StackQueuesPrograms/StackUsingArrays.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/StackQueuesPrograms/StackUsingLinkedList.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/SelectionSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/DeleteOccuranceOfC.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/FloydWarshallAlgorithm.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/StackQueuesPrograms/InfixToPostfixUsingStack.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/ConvertIntToChar.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/BasicStringsCharacters.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/Fibonacci.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/HeapsPrograms/HeapSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/HeapsPrograms/BuiltMaxHeap.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/CPracticeQuestions/PointerArrayCopy.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/GraphsPrograms/CheckingForAcyclicGraph.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/HeapsPrograms/OperationsOnHeap.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/DynamicProgramming/MatrixChainMultiplication.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/GreedyAlgorithms/JobSequencingWithDeadlines.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/Algorithms/SortingTechniques/BucketSort.c</file>
+            <file>file:/home/gaurav/Documents/ProjectRepositoriesOfGitHub/DataStructures-Algorithms-InC/DataStructures/TreesPrograms/ComprehensiveTreeProgram.c</file>
+        </group>
+    </open-files>
+</project-private>
