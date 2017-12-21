@@ -8,7 +8,7 @@ void searching(int);
 void deletion(int);
 int checking(int);
 
-struct hash *hashTable = NULL;
+struct hash *hashTable;
 int SizeOfTable = 0;
 
 struct node{
@@ -104,6 +104,9 @@ int checking(int rollNo){
     struct node *v;
     int hashIndex = rollNo % SizeOfTable;
     v = hashTable[hashIndex].head;
+    if(!v){
+        return 1;
+    }
     if(v){
         while(v->rollNo!=rollNo){
             v = v->next;
